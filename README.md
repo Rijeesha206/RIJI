@@ -46,6 +46,10 @@ Additional ML experiments and practice notebooks.
 Collaborative filtering model to recommend movies based on user ratings.  
 **Tech**: Python, Scikit-learn, Pandas, Cosine Similarity  
 **File**: Not uploaded due to dataset size. Available on Google Colab on request.
+### 10. Diabetes Prediction with SVM
+Binary classification using Support Vector Machine to predict diabetes. Includes data preprocessing, train/test split, and accuracy evaluation.  
+**Tech**: Python, Scikit-learn, Pandas, NumPy  
+**File**: `SVM_Diabetes_Prediction.ipynb`
 
 ## How to Run
 1. Open any `.ipynb` file in Jupyter Notebook or Google Colab
