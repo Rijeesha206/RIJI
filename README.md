@@ -42,6 +42,10 @@ Regression model to predict concrete compressive strength.
 ### 8. AI Projects
 Additional ML experiments and practice notebooks.  
 **Files**: `AI.ipynb`, `AI2.ipynb`
+### 9. Movie Recommendation System
+Collaborative filtering model to recommend movies based on user ratings.  
+**Tech**: Python, Scikit-learn, Pandas, Cosine Similarity  
+**File**: Not uploaded due to dataset size. Available on Google Colab on request.
 
 ## How to Run
 1. Open any `.ipynb` file in Jupyter Notebook or Google Colab
